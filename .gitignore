@@ -1,0 +1,10 @@
+env
+speech_key.json
+.vscode
+phrases.txt
+*.raw
+*.flac
+*.wav
+*.ogg
+*.mp4
+__*
